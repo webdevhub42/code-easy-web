@@ -1,16 +1,1 @@
-<svg width="40" height="35" viewBox="0 0 40 35" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect x="9.83337" y="10.0454" width="20.3333" height="14.9091" rx="1.5" stroke="white"/>
-    <line x1="14.2946" y1="12.5256" x2="28.186" y2="12.5256" stroke="white"/>
-    <line x1="14.2946" y1="14.5142" x2="28.186" y2="14.5142" stroke="white"/>
-    <line x1="14.2946" y1="18.4915" x2="28.186" y2="18.4915" stroke="white"/>
-    <line x1="14.2946" y1="16.5028" x2="28.186" y2="16.5028" stroke="white"/>
-    <line x1="14.2946" y1="22.4688" x2="28.186" y2="22.4688" stroke="white"/>
-    <line x1="14.2946" y1="20.4801" x2="28.186" y2="20.4801" stroke="white"/>
-    <line x1="11.8139" y1="12.5256" x2="12.8062" y2="12.5256" stroke="white"/>
-    <line x1="11.8139" y1="14.5142" x2="12.8062" y2="14.5142" stroke="white"/>
-    <line x1="11.8139" y1="18.4915" x2="12.8062" y2="18.4915" stroke="white"/>
-    <line x1="11.8139" y1="16.5028" x2="12.8062" y2="16.5028" stroke="white"/>
-    <line x1="11.8139" y1="22.4688" x2="12.8062" y2="22.4688" stroke="white"/>
-    <line x1="11.8139" y1="20.4801" x2="12.8062" y2="20.4801" stroke="white"/>
-    </svg>
-    
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="35" fill="none" viewBox="0 0 40 35"><rect width="20.333" height="14.909" x="9.833" y="10.045" stroke="#fff" rx="1.5"/><line x1="14.295" x2="28.186" y1="12.526" y2="12.526" stroke="#fff"/><line x1="14.295" x2="28.186" y1="14.514" y2="14.514" stroke="#fff"/><line x1="14.295" x2="28.186" y1="18.491" y2="18.491" stroke="#fff"/><line x1="14.295" x2="28.186" y1="16.503" y2="16.503" stroke="#fff"/><line x1="14.295" x2="28.186" y1="22.469" y2="22.469" stroke="#fff"/><line x1="14.295" x2="28.186" y1="20.48" y2="20.48" stroke="#fff"/><line x1="11.814" x2="12.806" y1="12.526" y2="12.526" stroke="#fff"/><line x1="11.814" x2="12.806" y1="14.514" y2="14.514" stroke="#fff"/><line x1="11.814" x2="12.806" y1="18.491" y2="18.491" stroke="#fff"/><line x1="11.814" x2="12.806" y1="16.503" y2="16.503" stroke="#fff"/><line x1="11.814" x2="12.806" y1="22.469" y2="22.469" stroke="#fff"/><line x1="11.814" x2="12.806" y1="20.48" y2="20.48" stroke="#fff"/></svg>
